@@ -1,0 +1,13 @@
+@import "setup/variables";
+@import "setup/base";
+@import "setup/setup";
+@import "setup/typography";
+@import "setup/helpers";
+
+
+// COMPONENTS
+@import "cmps/auth-modal";
+@import "cmps/main-view";
+@import "cmps/app-header";
+@import "cmps/add-note";
+
